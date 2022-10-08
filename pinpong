@@ -1,4 +1,8 @@
+// jogo criado no p5.js https://editor.p5js.org/flaviasouzz/full/9fGqB175l
+
+
 // use let para declaracao de variaveis 
+
 
 //variaveis da bolota
 let xBolota = 300;
